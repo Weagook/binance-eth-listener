@@ -12,7 +12,7 @@ Clone the repository
     
 Go to directory
 
-    cd binance-eth-listene
+    cd binance-eth-listener
     
 Install all dependencies
 
